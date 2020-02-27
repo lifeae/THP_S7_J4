@@ -1,3 +1,16 @@
+# The Javascript Project
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+
+## Comment faire fonctionner ce bin's :
+* Place toi avec ton terminal dans un dossier qui va bien.
+* `git clone git@github.com:lifeae/THP_S7_J4.git`
+* `cd THP_S7_J4`
+* ouvre le fichier [index.html](/index.html) dans ton navigateur préféré
+
+
+# Consignes
 
 Projet : JavaScript - Exercices basiques
 
