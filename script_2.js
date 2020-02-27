@@ -12,3 +12,12 @@
     // Dans la console le résultat suivant est affiché
     "Le résultat est : 24"
 */
+function factorielle(number) {
+  let result = 1;
+  for(i=0; i < number; i++){
+    result = result*number;
+  }
+  console.log(`La factorielle de ${number} est ${result}`);
+}
+number = prompt(`De quel nombre veux-tu calculer la factorielle ?`);
+factorielle(number);
