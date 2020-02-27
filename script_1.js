@@ -15,3 +15,6 @@ console.log("Bonjour, monde!");
   Tu stockeras cette entrée dans une variable et tu afficheras :
   "Bonjour, prénom !" dans la console.
 */
+let prenom ="";
+prenom = prompt(`Veuillez rentrer votre prénom`);
+console.log(`Bonjour, ${prenom}!`)
