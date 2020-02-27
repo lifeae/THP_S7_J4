@@ -7,7 +7,10 @@
 * Place toi avec ton terminal dans un dossier qui va bien.
 * `git clone git@github.com:lifeae/THP_S7_J4.git`
 * `cd THP_S7_J4`
-* ouvre le fichier [index.html](/index.html) dans ton navigateur préféré
+* ouvre les fichiers .html dans ton navigateur préféré
+  * Sur Linux : appuies sur `F12` puis cliques sur l'onglet "console". Regarde ce qu'il s'y affiche !
+  * Sur Mac : appuies sur `ALT + CMD + I`. Regarde ce qu'il s'affiche !
+  * Sur Windows : qu'est ce que tu fous sur Windows ?
 
 
 # Consignes
