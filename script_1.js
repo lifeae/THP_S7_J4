@@ -7,7 +7,7 @@
   Voici les lignes que tu dois voir dans ta console :
   "Bonjour monde"
 */
-console.log("Bonjour, monde!");
+console.log(`Bonjour, monde!`);
 
 /*
 2.1.2. Salut
