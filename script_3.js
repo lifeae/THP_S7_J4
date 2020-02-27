@@ -13,3 +13,12 @@
   #####
   
 */
+
+function pyramid(numberOfStairs) {
+ for(let i=0; i < numberOfStairs; i++){
+   console.log(i).repeat("_",4)  
+ } 
+}
+
+let numberOfStairs = prompt("Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?");
+pyramid(numberOfStairs);
